@@ -2,8 +2,6 @@ import csv
 import keras
 import numpy as np
 np.random.seed(42)
-from keras.datasets import mnist
-from keras.datasets import mnist
 from time import time
 #
 from keras.models import Sequential
